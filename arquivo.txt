@@ -2,3 +2,4 @@ Testando ar repo.
 Alterei o arquivo
 Alterei o arquivo denovo
 Alterei pelo github
+Atualizei o clone
