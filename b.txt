@@ -1,1 +1,2 @@
 arquivo que será ignorado
+outra linha
